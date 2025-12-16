@@ -1,0 +1,48 @@
+/**
+ * File: together.js
+ * Description: A promise written quietly, meant to stay.
+ */
+
+function together() {
+  const message = [
+    "I want you to know something important.",
+    "Not as a promise made in noise,",
+    "but as something steady and real.",
+    "",
+    "Life will not always be easy.",
+    "There will be days when things feel heavy,",
+    "moments when problems seem bigger than us.",
+",
+    "",
+    "But I want you to know this:",
+    "You will not face those moments alone.",
+    "",
+    "When things get confusing, we will talk.",
+    "When things get difficult, we will try.",
+    "When things get overwhelming, we will slow down together.",
+    "",
+    "I am not here only for the good days.",
+    "I am here for the uncomfortable conversations,",
+    "the misunderstandings,",
+    "and the days when strength feels distant.",
+    "",
+    "If you get tired, I will walk at your pace.",
+    "If you feel unsure, I will stay until things feel clearer.",
+    "If you fall, I will help you stand again.",
+    "",
+    "We don’t need to have everything figured out.",
+    "We just need to face things side by side.",
+    "",
+    "No rushing.",
+    "No forcing.",
+    "Just choosing each other, again and again.",
+    "",
+    "Whatever comes next,",
+    "I am here.",
+    "With you."
+  ];
+
+  message.forEach(line => console.log(line));
+}
+
+together(); with you 
