@@ -1,6 +1,6 @@
-/**
+
  * File: together.js
- * Description: A promise written quietly, meant to stay.
+ * Description: my written quietly, meant to stay.
  */
 
 function together() {
