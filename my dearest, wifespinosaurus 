@@ -38,9 +38,7 @@ function together() {
     "Just choosing each other, again and again.",
     "",
     "Whatever comes next,",
-    "I am here.",
-    "With you."
-  ];
+    "I am here,with you.",];
 
   message.forEach(line => console.log(line));
 }
